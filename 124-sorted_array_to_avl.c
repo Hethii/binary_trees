@@ -25,6 +25,8 @@ avl_t *_sorted_array_to_avl(int *array, int start, int end, avl_t *parent)
 	new->right = _sorted_array_to_avl(array, mid + 1, end, new);
 	return (new);
 }
+
+
 /**
  * sorted_array_to_avl - builds an AVL tree from an array
  * @array: input array
