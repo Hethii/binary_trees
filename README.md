@@ -11,8 +11,6 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Helper File :raised_hands:
 
-
-
 ## Header File :file_folder:
 
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
